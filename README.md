@@ -1,3 +1,5 @@
+avadesian修改readme
+
 # vue-kanban [![Build Status](https://travis-ci.org/BrockReece/vue-kanban.svg?branch=master)](https://travis-ci.org/BrockReece/vue-kanban) [![npm version](https://badge.fury.io/js/vue-kanban.svg)](https://badge.fury.io/js/vue-kanban)
 
 > A drag and drop kanban board component
